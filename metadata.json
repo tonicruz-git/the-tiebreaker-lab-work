@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "Smart decision engine with AI pros/cons, multi-criteria comparison matrices, SWOT analysis, and collaborative voting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
